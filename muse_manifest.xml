@@ -1,0 +1,62 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="theogramme.github.io" resolutions="1x" timestamp="1658186785898">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="289551180" ref="about:projects:index"/>
+    <file name="about.css" crc="484093961" ref="about"/>
+    <file name="projects.css" crc="449584176" ref="projects"/>
+    <file name="index.css" crc="385496164" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:about"/>
+    <file name="museutils.js" crc="3939489907" ref="index:projects:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects:about"/>
+    <file name="museconfig.js" crc="128606099" ref="index:projects:about"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:projects:about"/>
+    <file name="require.js" crc="4177726516" ref="index:projects:about"/>
+  </folder>
+  <folder name="images">
+    <file name="u127-4.png" crc="279987325" ref="index:projects:about"/>
+    <file name="8539d475-2084-4feb-8140-19a606d0ee1f_rwc_98x0x836x836x640.jpg" crc="3878388593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ca413b63-03e4-463a-ac21-91553d26ac10_rwc_125x0x644x644x640.jpg" crc="3776560934" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="29902aff-3344-4c26-bb4c-58f032d0d00b_rwc_161x117x391x391x640.jpg" crc="3971703140" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="449d43d2-6832-4907-a879-8a33b4e4e290_rwc_0x0x754x754x640.jpg" crc="153217452" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="51f06e0a-d326-4a10-8658-2dd01d992e7c_rwc_201x0x871x871x640.jpg" crc="482815726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="29369038-0cd1-465c-9214-6296d0bf78ec_rwc_65x0x758x758x640.jpg" crc="3962852834" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="edcdfe78-da69-4e14-811e-8d135d8a930f_rwc_239x93x458x458x640.jpg" crc="439762436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dae7235e-515b-44b6-8b60-30e1b54a2481_carw_1x1x640.jpg" crc="210477318" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7fbee776-1331-4017-a7a8-9e2773efbd29_o.jpg" crc="231181277" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="de7dc510-da27-4210-9920-0c575e47511d_o-crop-u826.jpg" crc="412301302" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="90dfaee5-c6b1-4ac9-9ef2-5c95a40fb3e9_o-crop-u843.jpg" crc="356028643" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="0344db4c-801a-40d1-b360-51a5716aade4_rw_600-crop-u864.jpg" crc="269980408" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="1657810428784.jpg" crc="446812155" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4130756777" seo="true" mt="1658186737837" redirect="true"/>
+  <file name="projects.html" crc="338848397" seo="true" mt="1658186734007" redirect="true"/>
+  <file name="about.html" crc="3854343252" seo="true" mt="1658186740777" redirect="true"/>
+</manifest>
