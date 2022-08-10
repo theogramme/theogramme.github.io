@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://theogramme.github.io/index.html</loc>
-    <lastmod>2022-07-19</lastmod>
+    <lastmod>2022-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -29,10 +29,13 @@
     <image:image>
       <image:loc>http://theogramme.github.io/images/dae7235e-515b-44b6-8b60-30e1b54a2481_carw_1x1x640.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/74c2dae5-31f4-4b2c-bcde-c45c23637fea_rw_600.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://theogramme.github.io/projects.html</loc>
-    <lastmod>2022-07-19</lastmod>
+    <lastmod>2022-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -50,11 +53,59 @@
   </url>
   <url>
     <loc>http://theogramme.github.io/about.html</loc>
-    <lastmod>2022-07-19</lastmod>
+    <lastmod>2022-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://theogramme.github.io/images/1657810428784.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://theogramme.github.io/sliding-cartographer-robot.html</loc>
+    <lastmod>2022-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://theogramme.github.io/character-controller-test.html</loc>
+    <lastmod>2022-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://theogramme.github.io/desolated-ashland.html</loc>
+    <lastmod>2022-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://theogramme.github.io/procedural-stylized-terrain.html</loc>
+    <lastmod>2022-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/e517ed58-18ef-4124-bf14-8a873d3e96ac_rw_1200.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/277ae83c-3d8a-4fb9-a61b-7784ead82ef4_rw_1200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/ff8912f6-24e3-474b-ad60-775088f50cd2_rw_1200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/112da95b-ed53-4cbf-8b60-fc7e0330700d_rw_1200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/cf9ad7ae-909d-4bca-a17c-942da8b96fe1_rw_1200.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/2b8a9f8a-7194-4234-93e3-92c8539c650e_rw_1200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/0fa27c1f-2de4-448f-9e09-70de552c3ecb_rw_1200.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/79754969-9f2f-4234-8a19-0feac19c2c47_rw_600.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
