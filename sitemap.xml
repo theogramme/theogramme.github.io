@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://theogramme.github.io/index.html</loc>
-    <lastmod>2022-08-10</lastmod>
+    <lastmod>2022-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,10 +32,16 @@
     <image:image>
       <image:loc>http://theogramme.github.io/images/74c2dae5-31f4-4b2c-bcde-c45c23637fea_rw_600.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/ezgifcom-gif-maker(7).gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/ezgifcom-gif-maker(8).gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://theogramme.github.io/projects.html</loc>
-    <lastmod>2022-08-10</lastmod>
+    <lastmod>2022-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -53,7 +59,7 @@
   </url>
   <url>
     <loc>http://theogramme.github.io/about.html</loc>
-    <lastmod>2022-08-10</lastmod>
+    <lastmod>2022-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -61,26 +67,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://theogramme.github.io/sliding-cartographer-robot.html</loc>
-    <lastmod>2022-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://theogramme.github.io/character-controller-test.html</loc>
-    <lastmod>2022-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://theogramme.github.io/desolated-ashland.html</loc>
-    <lastmod>2022-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://theogramme.github.io/procedural-stylized-terrain.html</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -106,6 +94,51 @@
     </image:image>
     <image:image>
       <image:loc>http://theogramme.github.io/images/79754969-9f2f-4234-8a19-0feac19c2c47_rw_600.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://theogramme.github.io/bytevoids.html</loc>
+    <lastmod>2022-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://theogramme.github.io/timeless-valley.html</loc>
+    <lastmod>2022-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/528e0237-2b86-4ae9-b472-505b77b026e0_rw_1200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/9047e60d-f9f5-4912-937a-af7b1489ef50_rw_1200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/7a971fe5-da76-4278-828f-5b290f9e8ca9_rw_1200.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://theogramme.github.io/el-efecto-de-los-deseos.html</loc>
+    <lastmod>2022-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://theogramme.github.io/contact.html</loc>
+    <lastmod>2022-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://theogramme.github.io/walk-to-school.html</loc>
+    <lastmod>2022-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/ezgifcom-gif-maker(5).gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theogramme.github.io/images/ezgifcom-gif-maker(6).gif</image:loc>
     </image:image>
   </url>
 </urlset>

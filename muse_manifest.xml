@@ -1,26 +1,28 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="theogramme.github.io" resolutions="1x" timestamp="1660148235168">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="theogramme.github.io" resolutions="1x" timestamp="1660337597162">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="447715100" ref="about:projects:index:character-controller-test:desolated-ashland:procedural-stylized-terrain:sliding-cartographer-robot"/>
-    <file name="about.css" crc="4094327871" ref="about"/>
-    <file name="projects.css" crc="4266789417" ref="projects"/>
-    <file name="index.css" crc="164870198" ref="index"/>
-    <file name="character-controller-test.css" crc="4003088775" ref="character-controller-test"/>
-    <file name="desolated-ashland.css" crc="3989479604" ref="desolated-ashland"/>
-    <file name="procedural-stylized-terrain.css" crc="3964913170" ref="procedural-stylized-terrain"/>
-    <file name="sliding-cartographer-robot.css" crc="170503424" ref="sliding-cartographer-robot"/>
+    <file name="site_global.css" crc="4276653859"/>
+    <file name="master_a-master.css" crc="155475847" ref="about:projects:index:procedural-stylized-terrain:bytevoids:timeless-valley:contact:el-efecto-de-los-deseos:walk-to-school"/>
+    <file name="about.css" crc="4091387828" ref="about"/>
+    <file name="projects.css" crc="3798610488" ref="projects"/>
+    <file name="index.css" crc="386524520" ref="index"/>
+    <file name="procedural-stylized-terrain.css" crc="41629709" ref="procedural-stylized-terrain"/>
+    <file name="bytevoids.css" crc="171001669" ref="bytevoids"/>
+    <file name="timeless-valley.css" crc="118941717" ref="timeless-valley"/>
+    <file name="contact.css" crc="316165645" ref="contact"/>
+    <file name="el-efecto-de-los-deseos.css" crc="166720723" ref="el-efecto-de-los-deseos"/>
+    <file name="walk-to-school.css" crc="4073599467" ref="walk-to-school"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:about:sliding-cartographer-robot:character-controller-test:desolated-ashland:procedural-stylized-terrain"/>
-    <file name="museutils.js" crc="3939489907" ref="index:projects:about:sliding-cartographer-robot:character-controller-test:desolated-ashland:procedural-stylized-terrain"/>
-    <file name="whatinput.js" crc="86476730" ref="index:projects:about:sliding-cartographer-robot:character-controller-test:desolated-ashland:procedural-stylized-terrain"/>
-    <file name="museconfig.js" crc="128606099" ref="index:projects:about:sliding-cartographer-robot:character-controller-test:desolated-ashland:procedural-stylized-terrain"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:projects:about:sliding-cartographer-robot:character-controller-test:desolated-ashland:procedural-stylized-terrain"/>
-    <file name="require.js" crc="4177726516" ref="index:projects:about:sliding-cartographer-robot:character-controller-test:desolated-ashland:procedural-stylized-terrain"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:about:procedural-stylized-terrain:bytevoids:timeless-valley:el-efecto-de-los-deseos:contact:walk-to-school"/>
+    <file name="museutils.js" crc="3939489907" ref="index:projects:about:procedural-stylized-terrain:bytevoids:timeless-valley:el-efecto-de-los-deseos:contact:walk-to-school"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects:about:procedural-stylized-terrain:bytevoids:timeless-valley:el-efecto-de-los-deseos:contact:walk-to-school"/>
+    <file name="museconfig.js" crc="128606099" ref="index:projects:about:procedural-stylized-terrain:bytevoids:timeless-valley:el-efecto-de-los-deseos:contact:walk-to-school"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:projects:about:procedural-stylized-terrain:bytevoids:timeless-valley:el-efecto-de-los-deseos:contact:walk-to-school"/>
+    <file name="require.js" crc="4177726516" ref="index:projects:about:procedural-stylized-terrain:bytevoids:timeless-valley:el-efecto-de-los-deseos:contact:walk-to-school"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u127-4.png" crc="279987325" ref="index:projects:about:sliding-cartographer-robot:character-controller-test:desolated-ashland:procedural-stylized-terrain"/>
+    <file name="u127-4.png" crc="4057602793" ref="index:projects:about:procedural-stylized-terrain:bytevoids:timeless-valley:el-efecto-de-los-deseos:contact:walk-to-school"/>
     <file name="8539d475-2084-4feb-8140-19a606d0ee1f_rwc_98x0x836x836x640.jpg" crc="3878388593" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -93,12 +95,35 @@
     <file name="79754969-9f2f-4234-8a19-0feac19c2c47_rw_600.jpg" crc="35699903" seo="true" ref="procedural-stylized-terrain">
       <caption webpage="procedural-stylized-terrain" alt=""/>
     </file>
+    <file name="528e0237-2b86-4ae9-b472-505b77b026e0_rw_1200.jpg" crc="4133258588" seo="true" ref="timeless-valley">
+      <caption webpage="timeless-valley" alt=""/>
+    </file>
+    <file name="9047e60d-f9f5-4912-937a-af7b1489ef50_rw_1200.jpg" crc="59720692" seo="true" ref="timeless-valley">
+      <caption webpage="timeless-valley" alt=""/>
+    </file>
+    <file name="7a971fe5-da76-4278-828f-5b290f9e8ca9_rw_1200.jpg" crc="523810520" seo="true" ref="timeless-valley">
+      <caption webpage="timeless-valley" alt=""/>
+    </file>
+    <file name="ezgifcom-gif-maker(7).gif" crc="3792214624" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ezgifcom-gif-maker(8).gif" crc="3845482885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ezgifcom-gif-maker(5).gif" crc="3854434311" seo="true" ref="walk-to-school">
+      <caption webpage="walk-to-school" alt=""/>
+    </file>
+    <file name="ezgifcom-gif-maker(6).gif" crc="386730554" seo="true" ref="walk-to-school">
+      <caption webpage="walk-to-school" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4000293120" seo="true" mt="1660148233129" redirect="true"/>
-  <file name="projects.html" crc="3803666556" seo="true" mt="1660148218719" redirect="true"/>
-  <file name="about.html" crc="230128128" seo="true" mt="1660148189937" redirect="true"/>
-  <file name="sliding-cartographer-robot.html" crc="202992591" seo="true" mt="1658954586387" redirect="true"/>
-  <file name="character-controller-test.html" crc="202408840" seo="true" mt="1658954586387" redirect="true"/>
-  <file name="desolated-ashland.html" crc="340951800" seo="true" mt="1658954586387" redirect="true"/>
-  <file name="procedural-stylized-terrain.html" crc="32693479" seo="true" mt="1658954586387" redirect="true"/>
+  <file name="index.html" crc="511486906" seo="true" mt="1660337003924" redirect="true"/>
+  <file name="projects.html" crc="253453179" seo="true" mt="1660337003924" redirect="true"/>
+  <file name="about.html" crc="432157961" seo="true" mt="1660337003924" redirect="true"/>
+  <file name="procedural-stylized-terrain.html" crc="371032136" seo="true" mt="1660337094811" redirect="true"/>
+  <file name="bytevoids.html" crc="466176402" seo="true" mt="1660337003924" redirect="true"/>
+  <file name="timeless-valley.html" crc="150970424" seo="true" mt="1660337146179" redirect="true"/>
+  <file name="el-efecto-de-los-deseos.html" crc="4278908467" seo="true" mt="1660337003924" redirect="true"/>
+  <file name="contact.html" crc="229319742" seo="true" mt="1660337003924" redirect="true"/>
+  <file name="walk-to-school.html" crc="3939147070" seo="true" mt="1660337057530" redirect="true"/>
 </manifest>
