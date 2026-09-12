@@ -1,0 +1,34 @@
+baseURL = 'https://theogramme.github.io/'
+locale = 'en-us'
+title = 'THEOGRAMME portfolio'
+theme = "risotto"
+
+[params.about]
+title = "Leonardo E. Montes"
+description = "self-taught amateur game developer who loves experimental designs and weird, innovative ways of creating art through code"
+logo = ">"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/reyrarnfredur"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:2cmontes@gmail.com"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin-in"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/leonardo-e-montes/"
+
+[[menus.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
+
+[[menus.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
